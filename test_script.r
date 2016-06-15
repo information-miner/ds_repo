@@ -1,2 +1,1 @@
-#this is a test script.
-tidy_source()bv
+#this is a test script
